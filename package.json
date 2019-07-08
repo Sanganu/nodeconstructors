@@ -1,0 +1,26 @@
+{
+  "name": "nodeconstructors",
+  "version": "1.0.0",
+  "description": "constructors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"hello constructors\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanganu/nodeconstructors.git"
+  },
+  "keywords": [
+    "nodejs",
+    "constructors"
+  ],
+  "author": "Sangeetha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sanganu/nodeconstructors/issues"
+  },
+  "homepage": "https://github.com/Sanganu/nodeconstructors#readme",
+  "dependencies": {
+    "inquirer": "^6.4.1"
+  }
+}
