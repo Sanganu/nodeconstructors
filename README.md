@@ -6,3 +6,6 @@ This App was developed during bootcamp program. The previous repo has all Nodejs
 This Repo is created for hangman backend app. This app uses concepts of constructors, inquirer, synchronization concepts. Looping on questions,number of tries, possibility to exit game and display results on exit.
 
 
+
+Previous Repo: https://github.com/scodingjs/hjtsmclss
+
