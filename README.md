@@ -1,4 +1,17 @@
 # nodeconstructors
+## PURPOSE:
+A fun Presidential Game.
+
+## TECHNOLOGY:
+A  CLI app using Nodejs, OOPS concept, synchorinization, Global and local concepts.
+
+## USAGE: 
+Feel free to explore the app, and dont forget to follow.
+
+### DEVELOPED BY:
+#### Sangeetha.K
+#### Senior Tutor & Centralized Grader
+
 Node Constructors, Inquirer.
 ![Gifs](https://github.com/Sanganu/hjtsmclss/blob/master/Hangman/President.gif)
 
