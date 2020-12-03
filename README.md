@@ -1,5 +1,6 @@
 # nodeconstructors
-Node Constructors, Inquirer.
+### Node Constructors, Inquirer.
+
 ![Gifs](https://github.com/Sanganu/hjtsmclss/blob/master/Hangman/President.gif)
 
 This App was developed during bootcamp program. The previous repo has all Nodejs apps develped.
@@ -11,10 +12,16 @@ A fun Presidential Game.
 ## TECHNOLOGY:
 A  CLI app using Nodejs, OOPS concept, synchorinization, Global and local concepts.
 
-## USAGE: 
-Feel free to explore the app, and dont forget to follow.
+.
 
 ### DEVELOPED BY:
 #### Sangeetha.K
 #### Senior Tutor & Centralized Grader
+
+#### Usage:
+![GitHub license](https://img.shields.io/badge/license-MIT-red.svg)
+
+* git clone https://github.com/Sanganu/nodeconstructors.git
+* npm i
+
 
