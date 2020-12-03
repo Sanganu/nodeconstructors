@@ -1,4 +1,5 @@
 # nodeconstructors
+
 ### Node Constructors, Inquirer.
 
 ![Gifs](https://github.com/Sanganu/hjtsmclss/blob/master/Hangman/President.gif)
@@ -14,9 +15,6 @@ A  CLI app using Nodejs, OOPS concept, synchorinization, Global and local concep
 
 .
 
-### DEVELOPED BY:
-#### Sangeetha.K
-#### Senior Tutor & Centralized Grader
 
 #### Usage:
 ![GitHub license](https://img.shields.io/badge/license-MIT-red.svg)
@@ -25,3 +23,6 @@ A  CLI app using Nodejs, OOPS concept, synchorinization, Global and local concep
 * npm i
 
 
+### DEVELOPED BY:
+#### Sangeetha.K
+#### Senior Tutor & Centralized Grader
