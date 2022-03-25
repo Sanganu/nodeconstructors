@@ -1,14 +1,9 @@
 # nodeconstructors
-<<<<<<< HEAD
-
 ### Node Constructors, Inquirer.
 
-=======
 ## PURPOSE:
-A fun Presidential Game.
 
-## TECHNOLOGY:
-A  CLI app using Nodejs, OOPS concept, synchorinization, Global and local concepts.
+A  CLI app using Nodejs, OOPS concept, synchorinization, maintaining tries for each question, option to exit game.
 
 ## USAGE: 
 Feel free to explore the app, and dont forget to follow.
@@ -18,10 +13,8 @@ Feel free to explore the app, and dont forget to follow.
 #### Senior Tutor & Centralized Grader
 
 Node Constructors, Inquirer.
->>>>>>> 0fba5d681c16b7920f9b17eec4a10e37f9f27065
 ![Gifs](https://github.com/Sanganu/hjtsmclss/blob/master/Hangman/President.gif)
 
-This App was developed during bootcamp program. The previous repo has all Nodejs apps develped.
 This Repo is created for hangman backend app. This app uses concepts of constructors, inquirer, synchronization concepts. Looping on questions,number of tries, possibility to exit game and display results on exit.
 
 ## PURPOSE:
