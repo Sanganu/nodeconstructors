@@ -10,10 +10,8 @@ This Repo is created for hangman backend app. This app uses concepts of construc
 ## PURPOSE:
 A fun Presidential Game.
 
-## TECHNOLOGY:
-A  CLI app using Nodejs, OOPS concept, synchorinization, Global and local concepts.
+A  CLI app using Nodejs, OOPS concept, synchorinization, maintaining the number of tries and the option to exit the game.
 
-.
 
 
 #### Usage:
